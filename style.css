@@ -1,15 +1,16 @@
-.lol {margin-top: 90px;
+.lol {margin-top: 50px;
 margin-left: 500px}
 
 a {font-size: 11px;
 font-family: fantasy;;
 color: black;}
 
-header {text-align: right}
+header {text-align: right;
+margin-top: 10px}
 
 .lel {margin-top: 200px;
-  margin-right: 12px;
-  margin-bottom: 15px;
+  margin-right: 15px;
+  margin-bottom: 20px;
 }
 
 .lell {margin-top: 190px;
@@ -23,20 +24,42 @@ margin-right: 50px;
 
 
 
-.champ {height: 30px;
+.champ {height: 35px;
 width: 550px;
 margin-left: 510px;
-margin-top: 15px}
+margin-top: 15px;
+border: 1px solid lightblue}
 
 .bouton {float: left;
 margin-left: 650px;
 margin-top: 20px;
 height: 50px;
-weight: 50px;}
+weight: 150px;
+color:blue;
+font-weight: bold;
+}
 
 .first {float: right;
 margin-right: 650px;
 margin-top: 20px;
 height: 50px;
 weight: 50px;
+color: blue
 }
+
+p {font-size: 11px;
+text-align: center;}
+
+input {font-weight: bold;
+background-color: white;}
+
+.op {margin-top: 200  px;
+margin-right: 12px}
+
+.lucian {margin-top: 10px;
+display: inline-block;}
+
+footer {margin-top: 150px}
+
+.jf {
+margin-left: 1450px}
