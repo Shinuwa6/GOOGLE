@@ -38,6 +38,8 @@ weight: 150px;
 color:blue;
 font-weight: bold;
 }
+.champ:hover {background-color: #B1A083}
+
 
 .first {float: right;
 margin-right: 650px;
@@ -59,7 +61,7 @@ margin-right: 12px}
 .lucian {margin-top: 10px;
 display: inline-block;}
 
-footer {margin-top: 150px} 
+footer {margin-top: 150px}
 
 .jf {
 margin-left: 1450px}
